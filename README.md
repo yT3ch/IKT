@@ -1,1 +1,1 @@
-Egy jatek aminek segitsegevel jatszva fejlesztheted matektudásod. :)
+Egy játék aminek segitségével játszva fejlesztheted matektudásod. :)
